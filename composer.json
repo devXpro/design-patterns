@@ -1,0 +1,15 @@
+{
+    "name": "devxpro/design-patterns",
+    "authors": [
+        {
+            "name": "Roman Yarmolenko",
+            "email": "devxpro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {}
+}
